@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.quanticasoft.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["D3:C3:54:F0:1B:79:EC:22:02:E0:C0:00:11:DC:21:A7:F3:68:C9:05:FA:8D:C4:30:6F:96:2A:88:89:85:A1:9C"]
+    }
+  }]
+  
